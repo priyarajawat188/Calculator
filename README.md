@@ -25,7 +25,10 @@ This application performs basic arithmetic operations with a modern UI featuring
 
 ## Project Structure
 
-```text
+  text
+
 ├── index.html   # Main HTML layout
+
 ├── style.css    # Styling and visual enhancements
+
 └── script.js    # Calculator logic and interactivity
