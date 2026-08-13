@@ -32,3 +32,5 @@ This application performs basic arithmetic operations with a modern UI featuring
 ├── style.css    # Styling and visual enhancements
 
 └── script.js    # Calculator logic and interactivity
+
+git clone [https://github.com/priyarajawat188/calculator.git](https://github.com/priyarajawat188/calculator.git)
