@@ -32,4 +32,4 @@ This application performs basic arithmetic operations with a modern UI featuring
 ```
 
 bash
-git clone [https://github.com/priyarajawat188/calculator.git] https://github.com/priyarajawat188/calculator.git
+git clone https://github.com/priyarajawat188/calculator.git  https://github.com/priyarajawat188/calculator.git
