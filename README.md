@@ -1,6 +1,6 @@
 # Interactive Web Calculator
 
-** Live Demo** : https://priyarajawat188.github.io/Calculator/ 
+**Live Demo** : https://priyarajawat188.github.io/Calculator/ 
 
 A clean, responsive, and interactive Web Calculator built using fundamental web technologies: **HTML5, CSS3, and JavaScript**. 
 
