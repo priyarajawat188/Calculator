@@ -25,12 +25,12 @@ This application performs basic arithmetic operations with a modern UI featuring
 
 ## Project Structure
 
-  text
-
+```Text
 ├── index.html   # Main HTML layout
-
 ├── style.css    # Styling and visual enhancements
-
 └── script.js    # Calculator logic and interactivity
+```
 
+```bash
 git clone [https://github.com/priyarajawat188/calculator.git](https://github.com/priyarajawat188/calculator.git)
+```
