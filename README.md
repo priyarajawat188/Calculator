@@ -31,6 +31,5 @@ This application performs basic arithmetic operations with a modern UI featuring
 └── script.js    # Calculator logic and interactivity
 ```
 
-```bash
-git clone https://github.com/priyarajawat188/calculator.git https://github.com/priyarajawat188/calculator.git
-```
+bash
+git clone [https://github.com/priyarajawat188/calculator.git] https://github.com/priyarajawat188/calculator.git
